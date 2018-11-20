@@ -1,2 +1,2 @@
-# test_clustering_algorithms_for_MNIST
-The performance of several clustering algorithms is testet for the MNIST data set 
+# Clustering_algorithms_applied_to_the_digits_data_set
+The repository is a side product of a course in pattern recognition and machine learning given at Goettingen university in spring 2018. It contains a couple of python scripts written for illustrating the concepts of clustering algorithms and machine learning. They are all applied to the digits data set. The performance is in most cases evaluated by success rate. 
